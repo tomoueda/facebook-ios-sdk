@@ -18,7 +18,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import <FBSDKCoreKit/FBSDKCoreKit.h>
+#import "FBSDKCoreKit.h"
 
 // A container class to wrap profile and access token information.
 @interface SUCacheItem : NSObject<NSSecureCoding>

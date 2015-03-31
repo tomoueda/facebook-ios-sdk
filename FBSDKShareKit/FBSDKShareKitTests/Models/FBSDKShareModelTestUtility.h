@@ -18,14 +18,14 @@
 
 #import <UIKit/UIKit.h>
 
-#import <FBSDKShareKit/FBSDKShareLinkContent.h>
-#import <FBSDKShareKit/FBSDKShareOpenGraphAction.h>
-#import <FBSDKShareKit/FBSDKShareOpenGraphContent.h>
-#import <FBSDKShareKit/FBSDKShareOpenGraphObject.h>
-#import <FBSDKShareKit/FBSDKSharePhoto.h>
-#import <FBSDKShareKit/FBSDKSharePhotoContent.h>
-#import <FBSDKShareKit/FBSDKShareVideo.h>
-#import <FBSDKShareKit/FBSDKShareVideoContent.h>
+#import "FBSDKShareLinkContent.h"
+#import "FBSDKShareOpenGraphAction.h"
+#import "FBSDKShareOpenGraphContent.h"
+#import "FBSDKShareOpenGraphObject.h"
+#import "FBSDKSharePhoto.h"
+#import "FBSDKSharePhotoContent.h"
+#import "FBSDKShareVideo.h"
+#import "FBSDKShareVideoContent.h"
 
 extern NSString *kFBSDKShareModelTestUtilityOpenGraphBoolValueKey;
 extern NSString *kFBSDKShareModelTestUtilityOpenGraphDoubleValueKey;

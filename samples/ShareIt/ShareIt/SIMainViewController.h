@@ -18,9 +18,9 @@
 
 #import <UIKit/UIKit.h>
 
-#import <FBSDKLoginKit/FBSDKLoginKit.h>
+#import "FBSDKLoginKit.h"
 
-#import <FBSDKShareKit/FBSDKShareKit.h>
+#import "FBSDKShareKit.h"
 
 @interface SIMainViewController : UIViewController <UIScrollViewDelegate>
 

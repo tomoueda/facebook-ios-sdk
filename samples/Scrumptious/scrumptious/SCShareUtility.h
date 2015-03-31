@@ -19,7 +19,7 @@
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
 
-#import <FBSDKShareKit/FBSDKShareKit.h>
+#import "FBSDKShareKit.h"
 
 @protocol SCShareUtilityDelegate;
 

@@ -18,8 +18,8 @@
 
 #import <Foundation/Foundation.h>
 
-#import <FBSDKCoreKit/FBSDKCopying.h>
-#import <FBSDKCoreKit/FBSDKMacros.h>
+#import "FBSDKCopying.h"
+#import "FBSDKMacros.h"
 
 /*!
  @abstract Notification indicating that the `currentAccessToken` has changed.

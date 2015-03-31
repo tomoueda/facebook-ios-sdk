@@ -18,7 +18,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import <FBSDKCoreKit/FBSDKGraphRequestConnection.h>
+#import "FBSDKGraphRequestConnection.h"
 
 // Internal only class to facilitate FBRequest processing, specifically
 // associating FBRequest and FBRequestHandler instances and necessary

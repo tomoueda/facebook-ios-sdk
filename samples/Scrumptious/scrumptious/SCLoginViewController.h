@@ -18,7 +18,7 @@
 
 #import <UIKit/UIKit.h>
 
-#import <FBSDKLoginKit/FBSDKLoginKit.h>
+#import "FBSDKLoginKit.h"
 
 @interface SCLoginViewController : UIViewController <FBSDKLoginButtonDelegate>
 
